@@ -53,7 +53,7 @@ A simple, responsive blogging website template for sharing articles and reaching
 
 - Add your own articles by editing the HTML files.
 - Replace placeholder article images in the `img/` directory.
-- Update author names and article content as needed.
+-
 
 ## Credits
 
