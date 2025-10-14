@@ -51,7 +51,7 @@ A simple, responsive blogging website template for sharing articles and reaching
 
 ## Customization
 
-- Add your own articles by editing the HTML files.
+
 
 
 ## Credits
