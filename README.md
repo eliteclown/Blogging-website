@@ -47,7 +47,7 @@ A simple, responsive blogging website template for sharing articles and reaching
    ```
 
 2. **Open `index.html` in your browser:**
-   - No build steps required.
+  
 
 ## Customization
 
