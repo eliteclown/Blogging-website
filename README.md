@@ -46,7 +46,7 @@ A simple, responsive blogging website template for sharing articles and reaching
    cd Blogging-website
    ```
 
-2. **Open `index.html` in your browser:**
+
   
 
 
