@@ -40,11 +40,7 @@ A simple, responsive blogging website template for sharing articles and reaching
 
 ## Getting Started
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/eliteclown/Blogging-website.git
-   cd Blogging-website
-   ```
+
 
 
   
