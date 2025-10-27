@@ -38,7 +38,7 @@ A simple, responsive blogging website template for sharing articles and reaching
 └── img/                # Images and article thumbnails
 ```
 
-## Getting Started
+
 
 
 
