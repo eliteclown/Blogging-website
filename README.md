@@ -26,16 +26,7 @@ A simple, responsive blogging website template for sharing articles and reaching
 
 ```
 .
-├── index.html          # Homepage with featured articles
-├── blogpost.html       # Template for individual blog posts
-├── search.html         # Search results page
-├── contact.html        # Contact page (not shown above, but linked in navigation)
-├── css/
-│   ├── style.css       # Main stylesheet
-│   ├── utils.css       # Utility classes for layout and spacing
-│   ├── mobile.css      # Responsive/mobile-specific styles
-│   └── blogpost.css    # Additional styles for blog posts
-└── img/                # Images and article thumbnails
+
 ```
 
 
