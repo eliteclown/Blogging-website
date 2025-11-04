@@ -22,7 +22,7 @@ A simple, responsive blogging website template for sharing articles and reaching
 - **Reusable Components:**  
   Consistent article card layout reused across homepage, search, and related articles.
 
-## Project Structure
+
 
 ```
 .
