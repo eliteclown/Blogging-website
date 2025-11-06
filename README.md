@@ -19,8 +19,7 @@ A simple, responsive blogging website template for sharing articles and reaching
 - **Navigation Bar:**  
   Includes Home, About, and Contact links.
 
-- **Reusable Components:**  
-  Consistent article card layout reused across homepage, search, and related articles.
+
 
 
 
