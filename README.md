@@ -17,7 +17,7 @@ A simple, responsive blogging website template for sharing articles and reaching
   Mobile-friendly layout with responsive CSS for various devices.
 
 - **Navigation Bar:**  
-  Includes Home, About, and Contact links.
+
 
 
 
