@@ -16,7 +16,7 @@ A simple, responsive blogging website template for sharing articles and reaching
 - **Responsive Design:**  
   Mobile-friendly layout with responsive CSS for various devices.
 
-- **Navigation Bar:**  
+ 
 
 
 
