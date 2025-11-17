@@ -13,8 +13,7 @@ A simple, responsive blogging website template for sharing articles and reaching
 - **Search Functionality:**  
   Dedicated search page to help users find articles by keywords.
 
-- **Responsive Design:**  
-  Mobile-friendly layout with responsive CSS for various devices.
+
 
  
 
