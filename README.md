@@ -11,7 +11,6 @@ A simple, responsive blogging website template for sharing articles and reaching
   Clean, readable article layout with author bio, publication date, and related posts.
 
 - **Search Functionality:**  
-  Dedicated search page to help users find articles by keywords.
 
 
 
