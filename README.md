@@ -7,12 +7,6 @@ A simple, responsive blogging website template for sharing articles and reaching
 - **Homepage with Featured Articles:**  
   Displays a selection of featured articles with images, author information, and reading time.
 
-- **Blog Post Page:**  
-  Clean, readable article layout with author bio, publication date, and related posts.
-
-- **Search Functionality:**  
-
-
 
  
 
