@@ -4,8 +4,7 @@ A simple, responsive blogging website template for sharing articles and reaching
 
 ## Features
 
-- **Homepage with Featured Articles:**  
-  Displays a selection of featured articles with images, author information, and reading time.
+
 
 
  
